@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace ToDoList
+namespace todolist2
 {
     public static class MauiProgram
     {

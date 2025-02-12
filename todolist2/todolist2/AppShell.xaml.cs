@@ -1,4 +1,4 @@
-﻿namespace ToDoList
+﻿namespace todolist2
 {
     public partial class AppShell : Shell
     {
