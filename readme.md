@@ -24,3 +24,11 @@
 
 [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
 
+
+
+### Create a .NET MAUI app 
+
+[Notes App](https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/?view=net-maui-9.0)
+
+[Upgrade your app with MVVM concepts](https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-mvvm/?view=net-maui-9.0)
+
