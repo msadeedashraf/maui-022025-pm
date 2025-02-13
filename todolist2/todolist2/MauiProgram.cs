@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
+using todolist2.ViewModel;
 
 namespace todolist2
 {
@@ -15,8 +16,12 @@ namespace todolist2
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
+            builder.Services.AddSingleton<MainPage>();
+            builder.Services.AddSingleton<MainViewModel>();
+
+
 #if DEBUG
-    		builder.Logging.AddDebug();
+            builder.Logging.AddDebug();
 #endif
 
             return builder.Build();
