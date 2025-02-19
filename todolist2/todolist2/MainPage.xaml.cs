@@ -1,18 +1,17 @@
 ﻿using todolist2.ViewModel;
 
-namespace todolist2
+namespace todolist2;
+
+
+public partial class MainPage : ContentPage
 {
-    public partial class MainPage : ContentPage
+    
+
+    public MainPage(MainViewModel vm)
     {
-        
-
-        public MainPage(MainViewModel vm)
-        {
-            InitializeComponent();
-            BindingContext = vm;
-        }
-
-      
+        InitializeComponent();
+        BindingContext = vm;
     }
 
+  
 }

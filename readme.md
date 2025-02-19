@@ -11,6 +11,8 @@
 
 [.NET MAUI for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY)
 
+### Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C#
+[Monkey Workshop](https://www.youtube.com/watch?v=DuNLR_NJv8U&ab_channel=JamesMontemagno)
 
 ### Resources
 
