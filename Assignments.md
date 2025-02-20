@@ -8,8 +8,6 @@
 ### Assignment # 3 : Use Grid to build a user interface
 [Use Grid](https://learn.microsoft.com/en-us/training/modules/customize-xaml-pages-layout/7-exercise-grid-build-user-interface)
 
-### Assignment # 4 : Use Grid to build a user interface
-[Use Grid](https://learn.microsoft.com/en-us/training/modules/customize-xaml-pages-layout/7-exercise-grid-build-user-interface)
 
 
 
