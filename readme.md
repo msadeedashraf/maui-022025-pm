@@ -34,3 +34,13 @@
 
 [Upgrade your app with MVVM concepts](https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-mvvm/?view=net-maui-9.0)
 
+
+### Projects
+
+[MAUI Mini Projects](https://www.youtube.com/watch?v=Kr3ItgSrOqE&list=PL285LgYq_FoL8ozwFH-LmbJV1CJfhvgJZ&ab_channel=Netcode-Hub)
+
+
+[Beautiful Property App In .Net MAUI - .NET MAUI](https://www.youtube.com/watch?v=EjnOPirG7Ls&ab_channel=OludayoAlli)
+
+
+[e-Commerce Grocery App using .Net MAUI](https://www.youtube.com/watch?v=uzyl1VBRwmI&list=PLlgYGDJXMjDZnB2OpzizRCt9tmTsP_xv1)

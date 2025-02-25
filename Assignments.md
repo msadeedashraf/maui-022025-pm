@@ -9,9 +9,6 @@
 [Use Grid](https://learn.microsoft.com/en-us/training/modules/customize-xaml-pages-layout/7-exercise-grid-build-user-interface)
 
 
-
-
-
 ### Final Project : Creating a Monkey App
 
 [Ref Video](https://www.youtube.com/watch?v=DuNLR_NJv8U&ab_channel=JamesMontemagno)
